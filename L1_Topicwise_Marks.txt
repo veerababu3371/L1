@@ -1,0 +1,39 @@
+Find the marking scheme for the L1 and L1 mock.
+
+
+html5 2
+css 1
+javascipt 2
+xml 2
+oracl 4
+oops uml 2
+core java 3 -abstract 
+util and collec -3
+io-1
+stream  api -2
+lamda 2
+jdbc 2
+exceptions 2
+multi thread 1`
+junit 1
+log4j 1
+request response 1(servelt)
+jsp scroiptiung 1 directive 1
+jpa hibernate 2
+intro spring 1
+intro spring framework and io 2
+java base configuration 1
+spring mvc 2
+aop 1
+spring with jpa 1
+rest full service 1
+intro type scipot 2
+directive 1
+data binding 1
+services 1
+http client 1
+component 1
+over js json 1
+jquery selector 1
+evnt handling and json 1
+intro to software engineering 3 and QPA 2
